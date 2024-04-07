@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "image.storage.directory",
+  "type": "java.lang.img",
+  "description": "A description for 'image.storage.directory'"
+}]}
